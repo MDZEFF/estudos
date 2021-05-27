@@ -1,0 +1,6 @@
+print ("Adição-" + str (35+34))
+print ("Subtração-" + str (5-3))
+print ("Divisão real-" + str (5/7.0))
+print ("Divisão de inteiros-" + str (5//3))
+print ("Resto de divisão-" + str (8%3))
+print ("Potenciação-" +str (10**5))
